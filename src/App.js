@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
 	<p>Added one line here to see what happens</p>
+	<p>Added a second line to see the changes in AWS Amplify</p>
       </header>
     </div>
   );
